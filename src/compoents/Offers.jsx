@@ -4,7 +4,7 @@ const Offers = () => {
   return (
     <div className="px-10 py-20 flex items-center justify-center w-full ">
       {/* div1 */}
-      <div className="  border-r border-l border-t border-b  p-10 ">
+      <div className=" h-full border-r border-l border-t border-b p-11">
         <p className=" text-2xl font-semibold  ">Deals and offers</p>
         <p className="text-neutral-500 font-medium text-xl">
           Hygiene equipments
@@ -34,7 +34,7 @@ const Offers = () => {
 
       {/* div 2 */}
 
-      <div className="flex gap-10   ">
+      <div className="flex  ">
         <div
           className="w-full  h-full p-10 border-r
                       border-t
